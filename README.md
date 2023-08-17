@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nobuiaffranm
+- 👀 I’m interested in binary code)
+- 🌱 I’m currently learning python, c++, js
